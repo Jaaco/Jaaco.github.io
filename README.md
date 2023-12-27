@@ -7,3 +7,6 @@ Datenschutz:
 Die getrackten Daten sowie die Email-Addresse zum Anmelden werden nicht mit anderen Nutzern geteilt.
 Nur der selbst-gewählte Username ist bei anderen Nutzern sichtbar.
 Außnahmen bestehen, wenn man einen anderen Nutzer als Freund hinzufügt und auswählt, spezifische Daten zu teilen.
+
+Account Deletion:
+If you want to have your account and user data deleted, please write an email to jacob@aesthetics.fitness.
